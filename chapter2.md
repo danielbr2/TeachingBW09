@@ -1,7 +1,7 @@
 ---
 title       : Erstelle eine Variable
 
---- type:NormalExercise lang:r xp:100 skills:1,3
+--- type:NormalExercise lang:r xp:100 skills:1,3 key:4506e007e8
 ## Interactive Exercise Title
 
 This basic exercise will challenge you to assign a variable in R.
